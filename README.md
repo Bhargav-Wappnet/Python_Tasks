@@ -2,11 +2,13 @@
 In this you can see the programs of the basics python like list, string etc.. based.
 ---
 # Summary
-Here we have total 39 mini programs, like.
+Here we have total so many mini programs, like.
 
 - List functions.
 - Tuple functions.
 - string functions.
+- Dictionary function
+- sets fucntions.
 - math functions.
 - some logical programs
 
