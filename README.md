@@ -12,7 +12,7 @@ Here we have total so many mini programs, like.
 - math functions.
 - some logical programs
 
-# Deploye
+# Deploy
 for testing above programs just run that with python.
 
 - Open terminal where above file you stored.
